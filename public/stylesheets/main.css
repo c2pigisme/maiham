@@ -1,0 +1,42 @@
+.image-holder {
+    width: 60px;
+    height: 60px;
+    background: red;
+    float:left;
+}
+.remain-holder {
+    width: 100%;
+    height: 60px;
+    background: grey;
+}
+.arrow-right-large {
+    width: 0; 
+    height: 0; 
+    border-top: 30px solid transparent;
+    border-bottom: 30px solid transparent;
+    border-left: 30px solid green;
+    overflow:hidden;
+    float:left;
+}
+.connector {
+    float:left;
+}
+.arrow-left-top-small {
+    width: 0; 
+    height: 0; 
+    border-bottom: 30px solid transparent;
+    border-right: 30px solid blue;
+    overflow:hidden;
+    margin-left: -30;
+    #float:left;
+}
+.arrow-left-bottom-small {
+    width: 0; 
+    height: 0;
+    border-top: 30px solid transparent;
+    border-right: 30px solid blue;
+    overflow:hidden;
+    margin-left: -30;
+    #float:left;    
+}
+
