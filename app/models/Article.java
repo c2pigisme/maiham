@@ -10,6 +10,6 @@ import play.modules.morphia.Model;
 public class Article extends Model {
 
     public List<Paragraph> paras;
-    public ArticleMetadata meta;
+    public Metadata meta;
     public String url;
 }
